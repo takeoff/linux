@@ -9,6 +9,7 @@ trees = [
     ("percpu",      "for-next"),
     ("cgroup",      "for-next"),
     ("userns",      "for-next"),
+    ("userns", "for-linus"),
     ("tip",         "auto-latest"),
 ]
 
